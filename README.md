@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-deshneni&show_icons=true&theme=transparent)
+ <!-- ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-deshneni&show_icons=true&theme=transparent) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhil-deshneni&theme=nightowl)](https://git.io/streak-stats)
 <!--
