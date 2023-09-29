@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋 to my portfolio
 
  <!-- ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-deshneni&show_icons=true&theme=transparent) -->
 
